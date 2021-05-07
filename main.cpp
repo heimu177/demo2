@@ -63,6 +63,7 @@ int main()
     cout << multpow2(2, 2) << endl;
     cout << divpow2(8, 1) << endl;
     cout << divpow2(8, 2) << endl;
+    cout << 1/1e8 << endl;
 
     return 0;
 }
