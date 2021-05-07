@@ -1,5 +1,5 @@
-#ifndef MYLIBRARY_H
-#define MYLIBRARY_H
+#ifndef MY_LIBRARY_H
+#define MY_LIBRARY_H
 
 void myfunction();
 
