@@ -1,0 +1,6 @@
+Once associated with a file name, we use our file stream to read each line of text from
+and print it out on a screen. To do that, we declare a string variable s which will hold our
+read line of text. Inside the while-loop, we read a line from a file to a string. This is why
+the std::getline function accepts a file stream and a string as arguments. Once read,
+we output the text line on a screen. The while loop terminates once we reach the end of
+the file.
